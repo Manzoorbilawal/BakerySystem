@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace BakerySystem
+namespace BakeryWeb.Data
 {
     public class MyDbContext : DbContext
     {
